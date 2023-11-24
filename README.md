@@ -1,5 +1,4 @@
-<h1><p align="center">Hi there 👋, I'm Diego Maldonado, a CS student</h1></p>
-<h1 style="text-align: center;">Hi there 👋, I'm Diego Maldonado, a CS student</h1>
+<h1><p align="center">Hi there 👋, I'm Diego Maldonado, a CS student<a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <p align="center" ><img src="https://www.espine.in/blog/wp-content/uploads/2022/08/software-developer.jpg" width="40%"/></p>
 <p align="center">I'm passionate about CS and Software-Development.<br/>I like to use data structures and algorithms to solve problems.<br>I'm also very passionate about sports, movies and books.<br></p><br/>
 <!--
