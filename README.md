@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Diego Maldonado, a CS student
-
+<h1 text-align="center">Hi there 👋, I'm Diego Maldonado, a CS student</h1>
 <!--
 **dmaldo19/dmaldo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
