@@ -1,6 +1,15 @@
 <h1><p align="center">Hi there 👋, I'm Diego Maldonado, a CS student</h1></p>
 <p align="center" ><img src="https://www.espine.in/blog/wp-content/uploads/2022/08/software-developer.jpg" width="40%"/></p>
 <p align="center">I'm passionate about CS and Software-Development.<br/>I like to use data structures and algorithms to solve problems.<br>I'm also very passionate about sports, movies and books.<br></p><br/>
+
+<summary style="text-align: center;"><h2>What I currently do</h2></summary>
+
+- 🔭 I'm developing in data structures and algorithms.
+- 🌱 I’m currently learning SQL, Google Cloud, IoT, and Linux.
+- 👯 I’m looking to collaborate on Software-Development projects.
+- 🤔 I am very good at leading a team, so I could be a project manager.
+
+<summary style="text-align: center;"><h2>To connect with me</h2></summary>
 <!--
 **dmaldo19/dmaldo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
