@@ -10,6 +10,12 @@
 - 🤔 I am very good at leading a team, so I could be a project manager.
 
 <summary style="text-align: center;"><h2>To connect with me</h2></summary>
+<p align = "center">
+ 
+    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diego-maldonado-617478267/)
+    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dmaldo19/)
+    
+</p>
 <!--
 **dmaldo19/dmaldo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
