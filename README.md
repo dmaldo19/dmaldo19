@@ -14,6 +14,14 @@
     <a href="https://www.linkedin.com/in/diego-maldonado-617478267/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/dmaldo19/"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </p>
+
+<summary><h2><img src="" align="center" width="28" />My Github Stats</h2> </summary>
+<br>
+
+<p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=dmaldo19&show_icons=true&locale=en&layout=compact">
+    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rahulmahesh62&">
+  </p>
 <!--
 **dmaldo19/dmaldo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
