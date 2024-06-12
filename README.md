@@ -4,8 +4,8 @@
 
 <summary style="text-align: center;"><h2>What I currently do</h2></summary>
 
-- 🔭 I'm developing in data structures and algorithms.
-- 🌱 I’m currently learning SQL, Google Cloud, IoT, and Linux.
+- 🔭 🔭 I’m currently enroll in an Intership Program In Baxter as SysOps Infrastructure and Cloud Apps Services
+- 🌱 I’m currently learning AWS, Azure, Boto3 and Linux.
 - 👯 I’m looking to collaborate on Software-Development projects.
 - 🤔 I am very good at leading a team, so I could be a project manager.
 
@@ -39,7 +39,6 @@ width="28" /> My Tools</h2></summary>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
 </div>
 -----
-- 🔭 I’m currently enroll in an Intership Program In Baxter as SysOps Infrastructure and Cloud Apps Services
 <!--
 **dmaldo19/dmaldo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
