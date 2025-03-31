@@ -1,5 +1,4 @@
 <h1><p align="center">Hi there 👋, I'm Diego Maldonado, a CS student</h1></p>
-<p align="center" ><img src="https://www.espine.in/blog/wp-content/uploads/2022/08/software-developer.jpg" width="40%"/></p>
 <p align="center">I'm passionate about CS and Software-Development.<br/>I am experienced in DevOps and Cloud Computing Technologies.<br></p><br/>
 
 <summary style="text-align: center;"><h2>Previous Experience</h2></summary>
