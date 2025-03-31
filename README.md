@@ -1,13 +1,12 @@
 <h1><p align="center">Hi there 👋, I'm Diego Maldonado, a CS student</h1></p>
 <p align="center" ><img src="https://www.espine.in/blog/wp-content/uploads/2022/08/software-developer.jpg" width="40%"/></p>
-<p align="center">I'm passionate about CS and Software-Development.<br/>I like to use data structures and algorithms to solve problems.<br>I'm also very passionate about sports, movies and books.<br></p><br/>
+<p align="center">I'm passionate about CS and Software-Development.<br/>I am experienced in DevOps and Cloud Computing Technologies.<br></p><br/>
 
-<summary style="text-align: center;"><h2>What I currently do</h2></summary>
+<summary style="text-align: center;"><h2>Previous Experience</h2></summary>
 
-- 🔭 🔭 I’m currently enroll in an Intership Program In Baxter as SysOps Infrastructure and Cloud Apps Services
-- 🌱 I’m currently learning AWS, Azure, Boto3 and Linux.
+- 🔭 I was enroll in an Intership Program In Baxter as SysOps Infrastructure and Cloud Apps Services
+- 🌱 I used AWS, Azure, Boto3 and Linux.
 - 👯 I’m looking to collaborate on Software-Development projects.
-- 🤔 I am very good at leading a team, so I could be a project manager.
 
 <summary style="text-align: center;"><h2>To connect with me</h2></summary>
 <p align = "center">
