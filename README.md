@@ -12,15 +12,14 @@
     <a href="https://www.linkedin.com/in/diego-maldonado-617478267/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<summary><h2><img src="" align="center" width="28" />My Github Stats</h2> </summary>
+<summary><h2>>My Github Stats</h2> </summary>
 <br>
 
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=dmaldo19&show_icons=true&locale=en&layout=compact">
     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rahulmahesh62&">
   </p>
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-width="28" /> My Tools</h2></summary>
+<summary><h2>My Tools</h2></summary>
 <br>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
