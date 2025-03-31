@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/diego-maldonado-617478267/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<summary><h2>>My Github Stats</h2> </summary>
+<summary><h2>My Github Stats</h2> </summary>
 <br>
 
 <p align = "center">
